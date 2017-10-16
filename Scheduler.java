@@ -1,4 +1,7 @@
-package schedulingLab;
+//David A Foley
+//OS, Prof. Gottlieb
+//Lab 2
+//10.8.17
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
